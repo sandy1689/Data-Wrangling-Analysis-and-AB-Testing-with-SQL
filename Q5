@@ -24,3 +24,5 @@ GROUP BY test_assignment,
          test_start_date
 LIMIT 100
 
+--The lift in query 3 is 1% and the P-Value is 0.88
+--The lift in query 4 is 2.3% and the P-Value is 0.25
